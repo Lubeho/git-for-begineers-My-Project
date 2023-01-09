@@ -1,4 +1,4 @@
 Welcome in MyProject
 
-Author: Joseph
+Author: Joseph Cosmas
 Twitter:josephluanda@yahoo.com
