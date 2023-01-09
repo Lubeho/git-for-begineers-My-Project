@@ -1,4 +1,4 @@
 Welcome in MyProject
 
-Author: Joseph
+Author: Joseph Luanda
 Twitter:josephluanda@yahoo.com
